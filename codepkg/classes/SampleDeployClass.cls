@@ -1,6 +1,6 @@
 @isTest
 public class SampleDeployClass {
-    //Testing again 2 random text dev12
+    //Testing again 2 random dev12
     public static testmethod void t1() {
         helloMethod();
 
