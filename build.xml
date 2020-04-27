@@ -13,7 +13,8 @@
 
     <taskdef resource="com/salesforce/antlib.xml" uri="antlib:com.salesforce">
         <classpath>
-            <pathelement location="../ant-salesforce.jar" />        	
+            <pathelement location="/home/ankit/Desktop/salesforce_ant_48.0/ant-salesforce.jar
+" />        	
         </classpath>
     </taskdef>
 	
